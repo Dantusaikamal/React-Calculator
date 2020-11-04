@@ -19,5 +19,5 @@ Here's the final result:
 4. Open the folder with a code editor like VS code or any IDE.
 5. Open terminal in the editor and enter 'npm install' 
 This will install all required dependencies in the node_modules. 
-6. After installing node modules, enter 'npm start' to start the development server. Happy coding :)
+6. After installing node modules, enter 'npm start' to start the development server. Happy coding! :)
 
